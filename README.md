@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spyror
+- 👋 Hi, I’m Aman Verma
 - 👀 I’m interested in make new projects
 - 🌱 I’m a B.Tech student (CS)
 - 💞️ I’m looking to collaborate on any organization
